@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jed/Downloads/001/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/jed/Downloads/001/AndroNM11/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/jed/.gradle/caches/transforms-3/f4a580ed86404330cdde1cd4e0443948/transformed/jetified-appcompat-resources-1.1.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/jed/Downloads/001/AwesomeProject/android/app/src/main/res/values/strings.xml",
+                    "source": "/home/jed/Downloads/001/AndroNM11/android/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -37,6 +37,42 @@
                         "startOffsets": "19072",
                         "endColumns": "51",
                         "endOffsets": "19119"
+                    }
+                },
+                {
+                    "source": "/home/jed/Downloads/001/AndroNM11/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "364",
+                        "startColumns": "4",
+                        "startOffsets": "25618",
+                        "endLines": "367",
+                        "endColumns": "12",
+                        "endOffsets": "25798"
+                    }
+                },
+                {
+                    "source": "/home/jed/Downloads/001/AndroNM11/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "262,263",
+                        "startColumns": "4,4",
+                        "startOffsets": "16930,16994",
+                        "endColumns": "63,68",
+                        "endOffsets": "16989,17058"
                     }
                 },
                 {
@@ -114,23 +150,6 @@
                     }
                 },
                 {
-                    "source": "/home/jed/Downloads/001/AwesomeProject/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "262,263",
-                        "startColumns": "4,4",
-                        "startOffsets": "16930,16994",
-                        "endColumns": "63,68",
-                        "endOffsets": "16989,17058"
-                    }
-                },
-                {
                     "source": "/home/jed/.gradle/caches/transforms-3/914e0aa8dc7c704f74eaed0d9a1f1d98/transformed/jetified-drawee-2.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,141",
@@ -147,25 +166,6 @@
                         "endLines": "2914,3334",
                         "endColumns": "22,22",
                         "endOffsets": "184854,204958"
-                    }
-                },
-                {
-                    "source": "/home/jed/Downloads/001/AwesomeProject/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "234"
-                    },
-                    "to": {
-                        "startLines": "364",
-                        "startColumns": "4",
-                        "startOffsets": "25618",
-                        "endLines": "367",
-                        "endColumns": "12",
-                        "endOffsets": "25798"
                     }
                 }
             ]
